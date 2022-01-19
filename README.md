@@ -6,7 +6,7 @@ Copyright nomadcoders
 
 HTML, CSS 만으로 제작되었습니다.
 
-아이콘은 https://heroicons.dev와 https://fontawesome.com/ 에서 추가하였습니다.
+아이콘은 https://heroicons.dev 와 https://fontawesome.com/ 에서 추가하였습니다.
 
 1.png - 최초 실행시 로딩페이지  
 2.png - 로그인 및 회원가입 페이지  
