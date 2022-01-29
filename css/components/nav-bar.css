@@ -14,4 +14,27 @@
 
 .nav__link {
   color: #2e363e;
+  position: relative;
+}
+
+.nav__notification {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: tomato;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  color: white;
+  position: absolute;
+  font-weight: 600;
+  left: 15px;
+  bottom: 15px;
+}
+.ellipsis {
+  width: 8px;
+  height: 8px;
+  position: inherit;
+  top: 5px;
+  left: 27px;
 }
