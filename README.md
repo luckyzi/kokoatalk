@@ -8,11 +8,19 @@ HTML, CSS 만으로 제작되었습니다.
 
 아이콘은 https://heroicons.dev 와 https://fontawesome.com/ 를 활용하였습니다.
 
-![1.png](https://github.com/luckyzi/kokoatalk/blob/main/screenshots/01.png "최초 실행시 로딩 페이지")  
-![2.png](https://github.com/luckyzi/kokoatalk/blob/main/screenshots/02.png "로그인 및 회원가입 페이지")  
-![3.png](https://github.com/luckyzi/kokoatalk/blob/main/screenshots/03.png "상단바, 헤더, 내 프로필 및 친구목록과 프로필")  
-![4.png](https://github.com/luckyzi/kokoatalk/blob/main/screenshots/05.png "chat 페이지")  
-![5.png](https://github.com/luckyzi/kokoatalk/blob/main/screenshots/05.png "find 페이지")  
-![6.png](https://github.com/luckyzi/kokoatalk/blob/main/screenshots/06.png "more 페이지")  
-![7.png](https://github.com/luckyzi/kokoatalk/blob/main/screenshots/07.png "setting")  
-![9.png](https://github.com/luckyzi/kokoatalk/blob/main/screenshots/09.png "대화화면, 키보드화면")
+<img src="https://github.com/luckyzi/kokoatalk/blob/main/screenshots/01.png" width="200px" height="100px" title=""최초 실행시 로딩 페이지"/>
+최초 실행시 로딩 페이지  
+<img src="https://github.com/luckyzi/kokoatalk/blob/main/screenshots/02.png" width="200px" height="100px" title=""로그인 및 회원가입 페이지"/>
+로그인 및 회원가입 페이지  
+<img src="https://github.com/luckyzi/kokoatalk/blob/main/screenshots/03.png" width="200px" height="100px" title=""상단바, 헤더, 내 프로필 및 친구목록과 프로필"/>
+상단바, 헤더, 내 프로필 및 친구목록과 프로필  
+<img src="https://github.com/luckyzi/kokoatalk/blob/main/screenshots/04.png" width="200px" height="100px" title=""chat 페이지"/>
+chat 페이지  
+<img src="https://github.com/luckyzi/kokoatalk/blob/main/screenshots/05.png" width="200px" height="100px" title=""find 페이지"/>
+find 페이지  
+<img src="https://github.com/luckyzi/kokoatalk/blob/main/screenshots/06.png" width="200px" height="100px" title=""more 페이지"/>
+more 페이지  
+<img src="https://github.com/luckyzi/kokoatalk/blob/main/screenshots/07.png" width="200px" height="100px" title=""setting"/>
+setting  
+<img src="https://github.com/luckyzi/kokoatalk/blob/main/screenshots/09.png" width="200px" height="100px" title=""대화화면, 키보드화면"/>
+대화화면, 키보드화면
